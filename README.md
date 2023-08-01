@@ -8,6 +8,7 @@ la pagina mostrara los datos de una base de datos, estos datos fueron creados us
 
 ## Visuales
 
+puedes visitarla en https://howarts-ruby-on-rails-97947b9eabd9.herokuapp.com/
 ![vista del sitio en donde se ve el funcionamiento, mostrando datos de una base de datos](public/howarts_rails.png)
 
 ## Empezando 🚀
